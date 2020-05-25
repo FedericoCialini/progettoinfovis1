@@ -8,8 +8,8 @@
   "color":"red"
  },
  {
-  "x": 970,
-  "y": 350,
+  "x": 950,
+  "y": 300,
   "balloon":110,
   "basket":30,
   "color":"green"
@@ -57,7 +57,7 @@
   "color":"steelblue"
  },
  {
-  "x": 699,
+  "x": 649,
   "y": 189,
   "balloon":111,
   "basket":111,

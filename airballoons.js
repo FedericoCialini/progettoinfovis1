@@ -85,7 +85,7 @@ d3.json("Data/dataset.json")
             selectedColor = actualBalloon.color
             actualBalloon.color = "white"
             draw(dataset)
-        };
+        }
     })
 
     .catch(error => {
