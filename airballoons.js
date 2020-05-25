@@ -78,7 +78,7 @@ d3.json("Data/dataset.json")
             actualBalloon.balloon = r1
             actualBalloon.basket = b1
             selected = null
-            return draw(dataset)
+            draw(dataset)
         }
 
         function clickColor(actualBalloon){
