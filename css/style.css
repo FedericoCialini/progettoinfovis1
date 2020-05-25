@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(/images/sfondo.png);
+    background-position: 0 0;
+    background-repeat: repeat-x;
+    animation: animate 80s linear infinite;
+
+}
+
+@keyframes animate {
+    from{
+        background-position: 0 0;
+    }
+    to{
+        background-position: 100% 0;
+
+    }
+}
